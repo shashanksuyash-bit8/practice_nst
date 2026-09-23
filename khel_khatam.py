@@ -1,1 +1,1 @@
-Print(Hogya aj ka)
+Print("Hogya aj ka")
